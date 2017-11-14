@@ -1,0 +1,6 @@
+# configure static ip address
+https://www.modmypi.com/blog/how-to-give-your-raspberry-pi-a-static-ip-address-update
+
+# enable ssh
+systemctl enable ssh
+systemctl start ssh
