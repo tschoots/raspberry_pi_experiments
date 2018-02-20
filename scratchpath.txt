@@ -47,6 +47,7 @@ http://www.noip.com/support/knowledgebase/install-ip-duc-onto-raspberry-pi/
 
 # install docker
 https://github.com/docker/docker-install
+sudo usermod -aG docker $USER
 
 # install docker compose
 https://docs.docker.com/compose/install/#install-compose
